@@ -1,6 +1,6 @@
 package edu.kh.variable.ex1;
 
-public class vriableEx3 {
+public class variableEx3 {
 	public static void main(String[] args) {
 	/* 형변환 (casting) : 값의 자료형을 변환하는 것(단 boolean 제외)
 	 * 
