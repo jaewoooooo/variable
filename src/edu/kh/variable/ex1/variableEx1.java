@@ -1,6 +1,6 @@
 package edu.kh.variable.ex1;
 
-public class variablex1 {
+public class variableEx1 {
 public static void main(String[] args) {
 	//메인메소드 : 꼭 있어야 실행 가능.
 	
